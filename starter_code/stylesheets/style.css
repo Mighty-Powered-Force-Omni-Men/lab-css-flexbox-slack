@@ -90,12 +90,14 @@ body{
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
+        text-align: center;
     }
     .lang-and-social {
         display: flex;
         flex-direction: column;
         justify-content: center;
         flex-wrap: wrap;
+        text-align: center;
     }
     .legal {
         display: flex;
@@ -108,8 +110,13 @@ body{
         display: flex;
         justify-content: center;
         align-content: center;
+        width: 50vw;
+        text-align: center;
     }
     .lang img {
         height: 1rem;
+    }
+    .social {
+        text-align: center;
     }
 }
