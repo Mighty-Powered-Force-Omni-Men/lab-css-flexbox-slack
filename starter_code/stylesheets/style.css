@@ -40,5 +40,11 @@ body{
     .hero-content{
         padding: 1rem;
     }
-
+    .hero-title{
+        color: #2C303F;
+    }
+    .hero-content p{
+        color:#5b5e6d;
+        line-height: 1.45rem;
+    }
 }
