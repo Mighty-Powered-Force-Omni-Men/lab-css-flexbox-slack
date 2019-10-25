@@ -12,6 +12,7 @@ body{
     font-family: sans-serif;
     font-weight: 100;
     font-size: 14pt;
+    letter-spacing: .75px;
 }
 @media (max-width:768px){
     /* navbar */
@@ -97,6 +98,9 @@ body{
     .footer-links {
         list-style: none;
         width: 40vw;
+    }
+    .footer-links-title {
+        font-weight: 400;
     }
     .footer-bottom {
         display: flex;
