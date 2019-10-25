@@ -98,7 +98,25 @@ body{
         align-items: center;
         flex-wrap: wrap;
     }
-    article p:last-child{
-        text-align: center;
+    .lang-and-social {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .legal {
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        width: 50vw;
+        list-style: none;
+    }
+    .lang {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+    .lang img {
+        height: 1rem;
     }
 }
