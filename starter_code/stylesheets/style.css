@@ -69,6 +69,16 @@ body{
         background-color: #611f69;
         color: #fff;
     }
+    /* company */
+    .company{
+        padding:1rem;
+        background-color:#F4F3F4;
+    }
+    .company-title{
+        color: #2C303F;
+        font-size: 2.4rem
+    }
+
     /* Footer */
     .footer-links-section {
         display: flex;
