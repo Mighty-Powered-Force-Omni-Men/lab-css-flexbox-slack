@@ -4,7 +4,13 @@ button-purple: #192592
 main-titles dark-grey: #2C303F;
 paragraph grey: #5b5e6d;
 nav grey: #5b5e6d;
+slack-purple: #611f69;
 */
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
 @media (max-width:768px){
     /* navbar */
     .nav{
@@ -30,6 +36,9 @@ nav grey: #5b5e6d;
     }
     .hero-img{
         display: none;
+    }
+    .hero-content{
+        padding: 1rem;
     }
 
 }
