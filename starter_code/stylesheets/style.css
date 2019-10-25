@@ -39,12 +39,23 @@ body{
     }
     .hero-content{
         padding: 1rem;
+        display: flex;
+        flex-direction: column;
+
     }
     .hero-title{
         color: #2C303F;
+        font-size: 2.4rem;
     }
     .hero-content p{
         color:#5b5e6d;
         line-height: 1.45rem;
+    }
+    .email{
+        width: 90vw;
+        
+    }
+    .button{
+        width:90vw;
     }
 }
