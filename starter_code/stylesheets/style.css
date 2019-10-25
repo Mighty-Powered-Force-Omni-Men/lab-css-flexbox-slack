@@ -84,7 +84,7 @@ body{
         color: #2C303F;
         font-size: 2.4rem
     }
-
+    
     /* Footer */
     .footer-links-section {
         display: flex;
@@ -95,6 +95,7 @@ body{
         margin-right: 50vw;
     }
     .footer-links {
+        list-style: none;
         width: 40vw;
     }
     .footer-bottom {
