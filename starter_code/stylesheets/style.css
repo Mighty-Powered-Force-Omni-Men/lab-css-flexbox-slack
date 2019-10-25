@@ -6,6 +6,7 @@ paragraph grey: #5b5e6d;
 nav grey: #5b5e6d;
 */
 @media (max-width:768px){
+    /* navbar */
     .nav{
         position: fixed;
             top:0px;
@@ -22,4 +23,13 @@ nav grey: #5b5e6d;
     .nav-links{
         display: none;
     }
+
+    /* hero */
+    .hero{
+        padding-top: 10vh;
+    }
+    .hero-img{
+        display: none;
+    }
+
 }
