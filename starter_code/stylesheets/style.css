@@ -9,8 +9,12 @@ nav grey: #5b5e6d;
     .nav{
         position: fixed;
             top:0px;
-        height: 20px;
+        height: 10vh;
+        width: 100vw;
         background-color: #fff;
+        padding: 1rem;
+        box-sizing: border-box;
+        border-bottom: 1px solid lightgrey;
     }
     .nav>img{
         width: 20vw;
