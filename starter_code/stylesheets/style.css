@@ -66,4 +66,23 @@ body{
     .button{
         width:90vw;
     }
+    /* Footer */
+    .footer-links-section {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .footer-logo {
+        margin-right: 50vw;
+    }
+    .footer-links {
+        width: 40vw;
+    }
+    .footer-bottom {
+        display: flex;
+        background-color: #5b5e6d;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
 }
