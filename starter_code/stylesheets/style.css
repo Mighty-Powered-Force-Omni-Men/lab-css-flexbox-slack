@@ -80,10 +80,17 @@ body{
     .company{
         padding:1rem;
         background-color:#F4F3F4;
+        font-size: 1.6rem;
+        font-weight: 100;
+        color:#5b5e6d;
     }
     .company-title{
         color: #2C303F;
         font-size: 2.4rem
+    }
+    .company-img{
+        width: 90vw;
+        padding: 1rem;
     }
     
     /* Footer */
