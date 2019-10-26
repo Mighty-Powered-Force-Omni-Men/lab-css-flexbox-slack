@@ -138,11 +138,13 @@ body{
         align-content: center;
         width: 50vw;
         text-align: center;
+        margin-top: 1vh;
     }
     .lang img {
         height: 1rem;
     }
     .social {
         text-align: center;
+        margin: 2vh 0;
     }
 }
