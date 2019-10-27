@@ -86,7 +86,6 @@ body{
         font-size: 1.6rem;
         font-weight: 100;
         color:#5b5e6d;
-
     }
     .company-title{
         color: #2C303F;
@@ -96,6 +95,10 @@ body{
         width: 90vw;
         padding: 2rem;
         box-sizing: border-box;
+        border-bottom: lightgrey 1px solid;
+    }
+    .company-img:last-child{
+        border-bottom: none;
     }
     
     /* Footer */
