@@ -19,10 +19,9 @@ body{
     .nav{
         position: fixed;
             top:0px;
-        height: 10vh;
         width: 100vw;
         background-color: #fff;
-        padding: 1rem;
+        padding: .5rem 1.5rem;
         box-sizing: border-box;
         border-bottom: 1px solid lightgrey;
     }
@@ -83,6 +82,7 @@ body{
         font-size: 1.6rem;
         font-weight: 100;
         color:#5b5e6d;
+
     }
     .company-title{
         color: #2C303F;
